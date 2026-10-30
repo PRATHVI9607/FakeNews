@@ -1,0 +1,6 @@
+transformers==4.46.3
+newspaper4k==0.9.3.1
+nltk==3.8.1  # newspaper4k loads the pickled punkt tokenizer, removed in nltk 3.9
+lxml_html_clean==0.4.1
+vt-py==0.19.0
+torch==2.9.1  # ZeroGPU supports a fixed set of torch versions

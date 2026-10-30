@@ -143,7 +143,18 @@ git remote add space https://huggingface.co/spaces/<user>/loki
 git push space main
 ```
 
-Add `VIRUS_TOTAL_API_KEY` under the Space's Settings → Secrets if you want URL scanning. The free CPU tier is enough.
+Add `VIRUS_TOTAL_API_KEY` under the Space's Settings → Secrets if you want URL scanning. Docker Spaces need a PRO subscription.
+
+### ZeroGPU (Gradio SDK)
+
+The live Space runs on ZeroGPU through `space/serve.py`. That file launches an empty Gradio app, because ZeroGPU only starts its scheduler when Gradio launches. It routes every request to the FastAPI app and runs the ensemble inside `@spaces.GPU`. Upload these files:
+
+| Space path | Source |
+|---|---|
+| `serve.py`, `requirements.txt` | `space/` |
+| `app/` | `api/app/` |
+| `static/` | `web/out/` (after `npm run build`) |
+| `README.md` | front matter with `sdk: gradio`, `app_file: serve.py`, `python_version: "3.10"` |
 
 ## Train your own model
 
