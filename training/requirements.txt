@@ -1,0 +1,7 @@
+# Install a CUDA build of torch first, e.g.:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu124
+torch>=2.3
+transformers>=4.44,<6
+datasets>=2.20,<5
+accelerate>=0.33
+scikit-learn>=1.4

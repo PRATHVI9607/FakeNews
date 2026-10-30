@@ -1,0 +1,9 @@
+.git
+models/
+notebooks/
+**/node_modules
+web/.next
+web/out
+.venv
+**/__pycache__
+api/tests

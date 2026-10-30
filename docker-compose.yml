@@ -1,0 +1,14 @@
+services:
+  loki:
+    build: .
+    container_name: loki
+    ports:
+      - "7860:7860"
+    env_file:
+      - path: .env
+        required: false
+    volumes:
+      - hf-cache:/home/user/.cache/huggingface
+
+volumes:
+  hf-cache:

@@ -1,0 +1,5378 @@
+{
+ "100percentfedup.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "16wmpo.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "21stcenturywire.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "24newsflash.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "24wpn.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "365usanews.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "4threvolutionarywar.wordpress.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "70news.wordpress.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "82.221.129.208": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "fake"
+  ]
+ },
+ "aanirfan.blogspot.co.uk": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "abcnews.com.co": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "abcnewsgo.co": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "abeldanger.net": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "abovetopsecret.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "rumor"
+  ]
+ },
+ "abriluno.com": {
+  "notes": "",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "aceflashman.wordpress.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "actforamerica.org/news": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "acting-man.com": {
+  "notes": "publishes articles denying climate change",
+  "types": [
+   "unreliable",
+   "conspiracy"
+  ]
+ },
+ "activistpost.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "actualidadpanamericana.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "satire"
+  ]
+ },
+ "addictinginfo.org": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "unreliable"
+  ]
+ },
+ "adflegal.org/media": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "adobochronicles.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "advocate.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "reliable"
+  ]
+ },
+ "aheadoftheherd.com": {
+  "notes": "false quotes regarding banking, heavily promotes businesses advertising on site/ buying of precious metals",
+  "types": [
+   "bias"
+  ]
+ },
+ "ahtribune.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias"
+  ]
+ },
+ "allnewspipeline.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "conspiracy"
+  ]
+ },
+ "alt-market.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "alternativemediasyndicate.com": {
+  "notes": "http://alternativemediasyndicate.com/2017/02/02/police-raid-standing-rock-camp-destroy-tipis-burning-remains/",
+  "types": [
+   "fake"
+  ]
+ },
+ "alternet.org": {
+  "notes": "",
+  "types": [
+   "political",
+   "reliable"
+  ]
+ },
+ "americablog.com": {
+  "notes": "domain for sale",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "americanborderpatrol.com": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "americanfreepress.net": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "americankabuki.blogspot.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "americanlookout.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "americannews.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "americannewsx.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "bias",
+   "satire"
+  ]
+ },
+ "americanoverlook.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "americanpatriotdaily.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait",
+   "bias"
+  ]
+ },
+ "americanpoliticnews.co": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "americanpresident.co": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "americanprogress.org": {
+  "notes": "",
+  "types": [
+   "political",
+   "reliable"
+  ]
+ },
+ "americanreviewer.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "americanthinker.com": {
+  "notes": "sites both reliable/not reliable sources, mix of opinion/'fact'",
+  "types": [
+   "bias"
+  ]
+ },
+ "americantoday.news": {
+  "notes": "",
+  "types": [
+   "rumor",
+   "bias"
+  ]
+ },
+ "americasfreedomfighters.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "ammoland.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "amplifyingglass.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "satire"
+  ]
+ },
+ "amposts.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "amren.com": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "amtvmedia.com": {
+  "notes": "",
+  "types": [
+   "rumor",
+   "unreliable"
+  ]
+ },
+ "amusmentic.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "rumor"
+  ]
+ },
+ "ancient-code.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "unreliable"
+  ]
+ },
+ "anews24.org/": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "angrypatriotmovement.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "fake"
+  ]
+ },
+ "anonews.co": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "anonhq.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "anonjekloy.tk": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "anonnews.co": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "anotherdayintheempire.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "antiwar.com": {
+  "notes": "site is biased but very open about bias and source",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "antoniusaquinas.wp.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "aryannationswordwide1488.org": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "asia-pacificresearch.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "satire"
+  ]
+ },
+ "assassinationscience.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "associatedmediacoverage.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "attn.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "clickbait"
+  ]
+ },
+ "aurora-news.us": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "automaticearth.com": {
+  "notes": "links to MSM sources and unreliable sources",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "automotostar.com": {
+  "notes": "",
+  "types": [
+   "clickbait"
+  ]
+ },
+ "awarenessact.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "awazetribune.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "awdnews.com": {
+  "notes": "twitter account deleted?",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "awm.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias",
+   "clickbait"
+  ]
+ },
+ "baptistnews.com": {
+  "notes": "circulates generally reliable information from a p.o.v. but not at the expense of informational integrity",
+  "types": [
+   "political"
+  ]
+ },
+ "barenakedislam.com": {
+  "notes": "",
+  "types": [
+   "hate"
+  ]
+ },
+ "barnesreview.org": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "bb4sp.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias",
+   "fake"
+  ]
+ },
+ "beehivebugle.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "beforeitsnews.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy",
+   "rumor"
+  ]
+ },
+ "betootaadvocate.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "bients.com": {
+  "notes": "",
+  "types": [
+   "clickbait"
+  ]
+ },
+ "bigamericannews.com": {
+  "notes": "",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "bigbluedimension.com": {
+  "notes": "",
+  "types": [
+   "rumor",
+   "bias"
+  ]
+ },
+ "bigbluevision.com": {
+  "notes": "",
+  "types": [
+   "hate"
+  ]
+ },
+ "bigbluevision.org": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias"
+  ]
+ },
+ "bighairynews.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy"
+  ]
+ },
+ "bignuggetnews.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "rumor"
+  ]
+ },
+ "bipartisanreport.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias"
+  ]
+ },
+ "blackagendareport.com": {
+  "notes": "anon submissions",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "blackgenocide.org": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias",
+   "hate"
+  ]
+ },
+ "blackinusrancenews.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake",
+   "unreliable"
+  ]
+ },
+ "blacklistednews.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "unreliable"
+  ]
+ },
+ "bluenationreview.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "unreliable"
+  ]
+ },
+ "boilingfrogspost.com": {
+  "notes": "links to natural news, blacklist news, some conspiracy sites",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "borowitzreport.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "bostonleader.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "bostontribune.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "breaking911.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "unreliable"
+  ]
+ },
+ "breakpoint.org": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "breitbart.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "unreliable",
+   "bias"
+  ]
+ },
+ "brotherjohnf.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "bullionbullscanada.com": {
+  "notes": "The \"one\" bank",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "burrardstreetjournal.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "buzzfeedusa.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "rumor"
+  ]
+ },
+ "bvanews.com": {
+  "notes": "seems like a combination of totally fake and unreliable reports of 'real' news",
+  "types": [
+   "unreliable",
+   "bias",
+   "fake"
+  ]
+ },
+ "callthecops.net": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "canadafreepress.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "cannasos.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake",
+   "unreliable"
+  ]
+ },
+ "cap-news.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "cato.org/blog": {
+  "notes": "",
+  "types": [
+   "political",
+   "reliable"
+  ]
+ },
+ "cbsnews.com.co": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "celebtricity.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "centerforsecuritypolicy.org": {
+  "notes": "http://www.bbc.com/news/world-us-canada-35037943 ;",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "centerforsecuritypolicy.org/#articles": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "channel-7-news.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "channel18news.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "charismanews.com": {
+  "notes": "minimal factual reporting despite being \"news'",
+  "types": [
+   "bias"
+  ]
+ },
+ "chaser.com.au": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "checkoutthehealthyworld.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "clickbait"
+  ]
+ },
+ "chicksontheright.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias"
+  ]
+ },
+ "christianfightback.com": {
+  "notes": "",
+  "types": [
+   "hate",
+   "bias"
+  ]
+ },
+ "christianpost.com": {
+  "notes": "",
+  "types": [
+   "reliable",
+   "political"
+  ]
+ },
+ "christiantimesnewspaper.com": {
+  "notes": "https://www.nytimes.com/2017/01/18/us/fake-news-hillary-clinton-cameron-harris.html?_r=1&mtrref=t.co&gwh=1CC9755BA757D7782D8A46A6F6FBF22E&gwt=pay",
+  "types": [
+   "rumor",
+   "bias",
+   "fake"
+  ]
+ },
+ "christwire.org": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "chronicle.su": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "chroniclesmagazine.org": {
+  "notes": "from what I gather, like the opposite of Jacobin (paleoconservative)",
+  "types": [
+   "political"
+  ]
+ },
+ "citizensunited.org": {
+  "notes": "loaded language etc.",
+  "types": [
+   "bias"
+  ]
+ },
+ "city-journal.org": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "cityworldnews.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "civictribune.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "clashdaily.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "clickhole.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "cnnews3.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "cnnnext.com": {
+  "notes": "basically an RT video channel",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "cnsnews.com": {
+  "notes": "The news arm of Media Research Center (a conservative org that is frequently criticized for use of selective evidence)",
+  "types": [
+   "unreliable",
+   "bias"
+  ]
+ },
+ "coasttocoastam.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "coed.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake",
+   "unreliable"
+  ]
+ },
+ "collective-evolution.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "collectivelyconscious.net": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "conspiracy"
+  ]
+ },
+ "commentarymagazine.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "commondreams.org": {
+  "notes": "",
+  "types": [
+   "political",
+   "clickbait"
+  ]
+ },
+ "concisepolitics.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "hate"
+  ]
+ },
+ "consciouslifenews.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "conservapedia.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "conservativebyte.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "conservativedailypost.com": {
+  "notes": "This website is a weird mix of outright fake news and some stuff that looks more reliable.",
+  "types": [
+   "fake",
+   "unreliable"
+  ]
+ },
+ "conservativefighters.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "conservativefiringline.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "clickbait"
+  ]
+ },
+ "conservativeflashnews.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "conservativehq.com": {
+  "notes": "http://conservativehq.com/article/24945-f-bomb-opposition-president-trump",
+  "types": [
+   "bias"
+  ]
+ },
+ "conservativeinfidel.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy"
+  ]
+ },
+ "conservativeoutfitters.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "clickbait"
+  ]
+ },
+ "conservativepapers.com": {
+  "notes": "incorrect/uncited data, citing other sources labeled as bias",
+  "types": [
+   "bias"
+  ]
+ },
+ "conservativerefocus.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "conservativereview.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "conservativespirit.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "fake"
+  ]
+ },
+ "conservativestate.com": {
+  "notes": "links to other borderline fake, but mostly just propagandistic websites",
+  "types": [
+   "bias"
+  ]
+ },
+ "conservativetribune.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "unreliable"
+  ]
+ },
+ "consortiumnews.com": {
+  "notes": "The authors on this website are pretty reliable and the articles appear well researched",
+  "types": [
+   "reliable"
+  ]
+ },
+ "conspiracyplanet.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "conspiracywire.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "corbettreport.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "countdowntozerotime.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "countercurrentnews.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "countercurrents.org": {
+  "notes": "This site is pretty explicit about it's p.o.v. and is coming from a political perspective but doesn't fit under how we are defining 'bias'",
+  "types": [
+   "political",
+   "unreliable"
+  ]
+ },
+ "counterinformation.wordpress.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "counterjihad.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "counterpsyops.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "counterpunch.com": {
+  "notes": "explicit POV - legit authors",
+  "types": [
+   "political"
+  ]
+ },
+ "counterpunch.org": {
+  "notes": "explicit POV - legit authors",
+  "types": [
+   "political"
+  ]
+ },
+ "cowgernation.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "creambmp.com": {
+  "notes": "",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "creativitymovement.net/category/news/": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "cryptogon.com": {
+  "notes": "copy-pasted commentary from various news & 'news' sources",
+  "types": [
+   "conspiracy",
+   "unreliable"
+  ]
+ },
+ "crystalair.com": {
+  "notes": "redirects to http://www.cap-news.com/",
+  "types": [
+   "satire"
+  ]
+ },
+ "dailybuzzlive.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "dailycaller.com": {
+  "notes": "a weird mix of info. they link to extremely biased sites (as sources) and more reliable/balanced sources",
+  "types": [
+   "political",
+   "clickbait",
+   "bias"
+  ]
+ },
+ "dailycurrant.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "dailydiscord.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "dailyheadlines.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "dailyheadlines.net": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "dailyinfobox.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "dailyken.com": {
+  "notes": "",
+  "types": [
+   "hate"
+  ]
+ },
+ "dailykos.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "clickbait"
+  ]
+ },
+ "dailyleak.org": {
+  "notes": "",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "dailynews10.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "dailynews5.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "dailynewsbin.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "dailynewsposts.info": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "dailyoccupation.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "dailypoliticsusa.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "dailysignal.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "dailysnark.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "satire"
+  ]
+ },
+ "dailysquib.co.uk": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "dailystormer.com": {
+  "notes": "pretty well known neo-nazi site",
+  "types": [
+   "hate",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "dailysurge.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "dailytelegraph.com.au": {
+  "notes": "australian tabloid mag",
+  "types": [
+   "bias",
+   "rumor"
+  ]
+ },
+ "dailyusaupdate.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "dailywire.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "damnleaks.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "dandygoat.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "darkmoon.me": {
+  "notes": "",
+  "types": [
+   "hate",
+   "bias"
+  ]
+ },
+ "darkpolitricks.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "dataasylum.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "davejanda.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "davidduke.com": {
+  "notes": "",
+  "types": [
+   "hate"
+  ]
+ },
+ "davidstockmanscontracorner.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "davidwolfe.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "dcclothesline.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "dcgazette.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "dcleaks.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "ddemocraticunderground.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "deadlinelive.info": {
+  "notes": "",
+  "types": [
+   "political",
+   "conspiracy"
+  ]
+ },
+ "deadlyclear.wordpress.com": {
+  "notes": "Not a personal website, owned by Project Maui, Inc. Makes unverifiable extraordinary claims, seems to be advertising for lawyers with a history of legal reprimands.",
+  "types": [
+   "bias",
+   "fake"
+  ]
+ },
+ "debunkingskeptics.com": {
+  "notes": "Science doesn't mean what they think it means",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "defenddemocracy.press": {
+  "notes": "editorial board as stated on about us seem to be legitimate academics, and originally authored content byline are academics, although not able to find a clear link between edu pages and these authors' work on this website. Many 3rd party articles are linked, sources provided. These articles are aggregated from other more clearly biased sites i.e. world socialist web site (wswg.org), rt.com, sputniknews.com.",
+  "types": [
+   "bias",
+   "political"
+  ]
+ },
+ "dennismichaellynch.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "denverguardian.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "departed.co": {
+  "notes": "redirects to dcposts.com",
+  "types": [
+   "fake"
+  ]
+ },
+ "departedmedia.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "der-postillon.com": {
+  "notes": "German language site",
+  "types": [
+   "satire"
+  ]
+ },
+ "derfmagazine.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "dineal.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "disclose.tv": {
+  "notes": "",
+  "types": [
+   "satire",
+   "conspiracy"
+  ]
+ },
+ "disclosuremedia.net": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "dissentmagazine.org": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "diversitychronicle.wordpress.com": {
+  "notes": "self-labled: https://diversitychronicle.wordpress.com/disclaimer/",
+  "types": [
+   "satire"
+  ]
+ },
+ "diyhours.net": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "dollarvigilante.com": {
+  "notes": "anarcho-capitalist blog",
+  "types": [
+   "bias"
+  ]
+ },
+ "donaldtrumpnews.co": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "donaldtrumppotus45.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "dont-tread-on.me": {
+  "notes": "doesn't seem to be updating anymore",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "downtrend.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "drrichswier.com": {
+  "notes": "",
+  "types": [
+   "hate",
+   "bias"
+  ]
+ },
+ "drudgereport.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "bias"
+  ]
+ },
+ "drudgereport.com.co": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "duffleblog.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "duhprogressive.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "dutchsinse.com": {
+  "notes": "weather control",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "eaglerising.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "ebolahoax.com": {
+  "notes": "domain for sale",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "economicnoise.com": {
+  "notes": "sites some problematic sources, like CNS news",
+  "types": [
+   "political",
+   "unreliable"
+  ]
+ },
+ "ecowatch.com": {
+  "notes": "this site claims junksci, but I read over a dozen articles w/o finding any. probably should re-check soon https://mediabiasfactcheck.com/ecowatch/",
+  "types": [
+   "political"
+  ]
+ },
+ "educate-yourself.org": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "educateinspirechange.org/health": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "junksci"
+  ]
+ },
+ "electionnightgatekeepers.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "unreliable"
+  ]
+ },
+ "elelephantintheroom.blogspot.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "elitereaders.com": {
+  "notes": "",
+  "types": [
+   "clickbait"
+  ]
+ },
+ "elkoshary.com": {
+  "notes": "About Me notes that it's not fake/satirical news",
+  "types": [
+   "satire"
+  ]
+ },
+ "elmundotoday.com": {
+  "notes": "About Me notes that it's not fake/satirical news",
+  "types": [
+   "satire"
+  ]
+ },
+ "embols.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "empirehearland.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "empireherald.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "empirenews.net": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "empiresports.co": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "satire"
+  ]
+ },
+ "emptywheel.net": {
+  "notes": "commentary on current events/news",
+  "types": [
+   "political"
+  ]
+ },
+ "en-vovle.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "enabon.com": {
+  "notes": "No authors, no contact, just copy/pasted from other questionable sites",
+  "types": [
+   "fake"
+  ]
+ },
+ "endingthefed.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "endoftheamericandream.com": {
+  "notes": "Traffics in religious conspiracy theories and poorly sourced pro-Trump propaganda",
+  "types": [
+   "conspiracy",
+   "fake",
+   "political"
+  ]
+ },
+ "endtime.com": {
+  "notes": "Not sure about this one. zany religious prophecy/not really conspiracy",
+  "types": [
+   "bias",
+   "clickbait",
+   "political"
+  ]
+ },
+ "enduringvision.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "enhlive.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "eutimes.net": {
+  "notes": "",
+  "types": [
+   "hate",
+   "conspiracy"
+  ]
+ },
+ "eutopia.buzz": {
+  "notes": "",
+  "types": [
+   "fake",
+   "satire",
+   "conspiracy"
+  ]
+ },
+ "ewao.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "experimentalvaccines.org": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "conspiracy"
+  ]
+ },
+ "expose1933.com": {
+  "notes": "references to \"white genocide\" and \"race mixing\"",
+  "types": [
+   "conspiracy",
+   "hate"
+  ]
+ },
+ "express.co.uk": {
+  "notes": "well-known tabloid",
+  "types": [
+   "rumor"
+  ]
+ },
+ "extraclubmagazine.com": {
+  "notes": "vacillates between outright fake and misleading stories",
+  "types": [
+   "bias",
+   "clickbait",
+   "fake"
+  ]
+ },
+ "eyeopening.info": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "fakingnews.com": {
+  "notes": "fiction disclaimer on bottom of home screen",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "familysecuritymatters.org": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "farmwars.info": {
+  "notes": "Much of the site is focused on anti-GMO conspiracies, with political conspiracies coming in as a close second. There are some apparent attempts to source some wild claims, but the use of unstable URLs-- intentionally or otherwise-- thwarts this.",
+  "types": [
+   "fake",
+   "conspiracy"
+  ]
+ },
+ "federalistpress.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "fedsalert.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "fellowshipoftheminds.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "filmsforaction.org": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "financialsurvivalnetwork.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias"
+  ]
+ },
+ "firearmscoalition.org": {
+  "notes": "A single-issue blog, it hasn't been updated since August 2016. It talks about guns, has lots of dead links, and has trouble distinguishing between legitimate and illegitimate sources.",
+  "types": [
+   "bias",
+   "blog"
+  ]
+ },
+ "flashnewscorner.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "floridasunpost.com": {
+  "notes": "I concur: http://mashable.com/2016/10/03/fake-news-story-man-marries-granddaughter/#QvpAzP.e8Oqb",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "fmobserver.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "fognews.ru": {
+  "notes": "site contains satire disclaimer",
+  "types": [
+   "satire"
+  ]
+ },
+ "foodbabe.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "foreignpolicyjournal.com": {
+  "notes": "legit source coming from a political perspective",
+  "types": [
+   "political"
+  ]
+ },
+ "fourwinds10.net": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "fprnradio.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "fake"
+  ]
+ },
+ "freakoutnation.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "freebeacon.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "freedomdaily.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "freedomforceinternational.com": {
+  "notes": "global warming denial",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "freedomoutpost.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "freedomsphoenix.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "freedomworks.org": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "freedomworldnews.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "freepatriot.org": {
+  "notes": "site contains satire disclaimer",
+  "types": [
+   "satire"
+  ]
+ },
+ "freewoodpost.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "freshdailyreport.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "fridaymash.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "fromthetrenchesworldreport.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci",
+   "bias"
+  ]
+ },
+ "frontpagemag.com": {
+  "notes": "Part of David Horowitz' Freedom Center",
+  "types": [
+   "bias",
+   "hate"
+  ]
+ },
+ "fusion.net": {
+  "notes": "website contains some satire",
+  "types": [
+   "political",
+   "reliable"
+  ]
+ },
+ "gaia.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "galacticconnection.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "gangstergovernment.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "gatesofvienna.net": {
+  "notes": "",
+  "types": [
+   "hate",
+   "conspiracy"
+  ]
+ },
+ "geoengineeringwatch.org": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "conspiracy"
+  ]
+ },
+ "geopolmonitor.com": {
+  "notes": "this website is tricky (in terms of writers using some interesting frames/language). def could use a second analysis.",
+  "types": [
+   "political"
+  ]
+ },
+ "givemeliberity01.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "glaringhypocrisy.com": {
+  "notes": "references to \"Jew World Order\"",
+  "types": [
+   "hate",
+   "conspiracy"
+  ]
+ },
+ "globalpoliticsnow.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "globalresearch.ca": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "glossynews.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "godlikeproductions.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "gomerblog.com": {
+  "notes": "site contains satire disclaimer",
+  "types": [
+   "satire"
+  ]
+ },
+ "goneleft.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "gopthedailydose.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "govtslaves.info": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "greanvillepost.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "greenmedinfo.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "guardianlv.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "guccifer2.wordpress.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "gulagbound.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "gummypost.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "hangthebankers.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "healthimpactnews.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "bias"
+  ]
+ },
+ "healthnutnews.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "healthy-holistic-living.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "clickbait"
+  ]
+ },
+ "healthycareandbeauty.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake",
+   "unreliable"
+  ]
+ },
+ "healthyworldhouse.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "heartland.org": {
+  "notes": "http://www.sourcewatch.org/index.php/Heartland_Institute",
+  "types": [
+   "bias"
+  ]
+ },
+ "heatst.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias"
+  ]
+ },
+ "henrymakow.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "heresyblog.net": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "rumor"
+  ]
+ },
+ "heritage.org": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "holyobserver.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "horowitzfreedomcenter.org": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "humansarefree.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "humortimes.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "huzlers.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "icr.org": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "ifyouonlynews.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "satire"
+  ]
+ },
+ "ihavethetruth.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait",
+   "fake"
+  ]
+ },
+ "ihr.org": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "ijr.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "bias",
+   "unreliable"
+  ]
+ },
+ "illuminati-news.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "ilovemyfreedom.org": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "immediatesafety.org": {
+  "notes": "https://immediatesafety.org/dnc-to-hand-debbie-wasserman-schultz-over-to-isis-for-beheadding/",
+  "types": [
+   "fake"
+  ]
+ },
+ "in5d.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "indiaarising.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "unreliable"
+  ]
+ },
+ "infiniteunknown.net": {
+  "notes": "9/11 was an inside job",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "informationclearinghouse.info": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "unreliable"
+  ]
+ },
+ "informetoday.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "infostormer.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "hate",
+   "conspiracy"
+  ]
+ },
+ "infowars.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "instaworldnews.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "intellihub.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "unreliable"
+  ]
+ },
+ "interestingdailynews.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "intrendtoday.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "clickbait"
+  ]
+ },
+ "intrepidreport.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "investmentresearchdynamics.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "investmentwatchblog.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "fake"
+  ]
+ },
+ "ironictimes.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "islamicanews.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "itaglive.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "itccs.org": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "itmakessenseblog.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "iwanttoexplore.com": {
+  "notes": "mostly turned back into car website",
+  "types": [
+   "fake"
+  ]
+ },
+ "jackpineradicals.com": {
+  "notes": "left wing discussion site",
+  "types": [
+   "political"
+  ]
+ },
+ "jacobinmag.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "jamesrgrangerjr.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "jesus-is-savior.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "jewsnews.co.il": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias",
+   "fake"
+  ]
+ },
+ "jihadwatch.org": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "hate"
+  ]
+ },
+ "johnnyrobish.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "jonesreport.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "journal-neo.org": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "judicialwatch.org": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "katehon.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "kmt11.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "knowledgeoftoday.org": {
+  "notes": "http://www.knowledgeoftoday.org/2012/02/illuminati-secret-hidden-from-masses.html",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "konkonsagh.biz": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "krbcnews.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "ky12news.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "ladylibertynews.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "landoverbaptist.org": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "lastdeplorables.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "learnprogress.org": {
+  "notes": "http://www.learnprogress.org/white-house-website-sell-jewelry/",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "lewrockwell.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable",
+   "political"
+  ]
+ },
+ "liberalamerica.org": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias"
+  ]
+ },
+ "liberalbias.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "liberaldarkness.com": {
+  "notes": "",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "liberalplug.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "libertyalliance.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "libertyblitzkrieg.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "libertyfederation.com": {
+  "notes": "",
+  "types": [
+   "hate"
+  ]
+ },
+ "libertymovementradio.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "libertynews.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias"
+  ]
+ },
+ "libertytalk.fm": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "libertyunyielding.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "libertyvideos.org": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "libertywritersnews.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias",
+   "unreliable"
+  ]
+ },
+ "lifeandabout.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "lifenews.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "lifeprevention.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "lifesitenews.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias"
+  ]
+ },
+ "lifezette.com": {
+  "notes": "",
+  "types": [
+   "clickbait"
+  ]
+ },
+ "liveactionnews.org": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "livevote.com": {
+  "notes": "",
+  "types": [
+   "clickbait"
+  ]
+ },
+ "loanpride.com": {
+  "notes": "http://loanpride.com/obama-family-divorce-attorney-quit-smoking-tips/?utm_source=revcontent&utm_medium=56198&utm_term=conservative%20news&utm_content=1770992&utm_campaign=234718&utm_widget_id=56198",
+  "types": [
+   "rumor",
+   "clickbait"
+  ]
+ },
+ "local31news.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "lovethispic.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "junksci"
+  ]
+ },
+ "lushforlife.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "mad-yet.blogspot.com": {
+  "notes": "links to real news stories, but also some questionable/decontextualized images",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "madpatriots.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "clickbait"
+  ]
+ },
+ "madworldnews.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "clickbait"
+  ]
+ },
+ "magafeed.com": {
+  "notes": "\"god/emperor\" category for trump",
+  "types": [
+   "rumor",
+   "bias",
+   "fake"
+  ]
+ },
+ "maganews.co": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "majorthoughts.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "makeamericagreattoday.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "fake"
+  ]
+ },
+ "meanlefthook.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "mediamass.net": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "mediazone.news": {
+  "notes": "",
+  "types": [
+   "rumor",
+   "unreliable"
+  ]
+ },
+ "megafreshnews.com": {
+  "notes": "",
+  "types": [
+   "rumor"
+  ]
+ },
+ "megynkelly.us": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "mentor2day.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "metropolitanworlds.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "militianews.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias",
+   "hate"
+  ]
+ },
+ "mintpressnews.com": {
+  "notes": "legit source form a political perspective",
+  "types": [
+   "political"
+  ]
+ },
+ "molonlabemedia.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "moonofalabama.org": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "morningledger.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "conspiracy"
+  ]
+ },
+ "morningnewsusa.com": {
+  "notes": "stories seem to originate from real news, but are somewhat clickbait-y and sources are not cited",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "mpidailymagazine.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "mrc.org": {
+  "notes": "",
+  "types": [
+   "political",
+   "bias"
+  ]
+ },
+ "mrconservative.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "msnbc.website": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "myfreshnews.com": {
+  "notes": "found linked from iwanttoexplore.com",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "myzonetoday.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "nahadaily.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "nakedcapitalism.com": {
+  "notes": "commentary on finance, economics, politics and power",
+  "types": [
+   "political"
+  ]
+ },
+ "nasamoonhoax.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "nationalreport.net": {
+  "notes": "",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "nationalreview.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "nationalufocenter.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "nationalvanguard.org": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/groups",
+  "types": [
+   "hate"
+  ]
+ },
+ "nationindistress.weebly.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "nationonenews.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy"
+  ]
+ },
+ "naturalblaze.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "conspiracy"
+  ]
+ },
+ "naturalnews.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "conspiracy"
+  ]
+ },
+ "naturalnewsblogs.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "nbc.com.co": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "ncscooper.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "neonnettle.com": {
+  "notes": "http://www.neonnettle.com/features/732-pizzagate-worldwide-pedophile-ring-bust-begins-media-remains-silent-",
+  "types": [
+   "conspiracy",
+   "fake",
+   "bias"
+  ]
+ },
+ "nephef.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "nevo.news": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias"
+  ]
+ },
+ "newcenturytimes.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias"
+  ]
+ },
+ "newcoldwar.org": {
+  "notes": "contains statement that site authors are \"independent, but not non-partisan\" (anti-war (Ukraine))",
+  "types": [
+   "political"
+  ]
+ },
+ "newpoliticstoday.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "news4ktla.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "newsbbc.net": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "newsbiscuit.com": {
+  "notes": "http://www.newsbiscuit.com/about/disclaimer/",
+  "types": [
+   "satire"
+  ]
+ },
+ "newsbreakers.org": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "newsbreakshere.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "newsbysquad.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "newscorpse.com": {
+  "notes": "http://www.newscorpse.com/ncWP/?p=34163",
+  "types": [
+   "political"
+  ]
+ },
+ "newsdaily12.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "newsexaminer.net": {
+  "notes": "",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "newsfrompolitics.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "newsleak.co": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "newslo.com": {
+  "notes": "redirects to http://politicops.com/ (12/2)",
+  "types": [
+   "fake"
+  ]
+ },
+ "newslogue.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "fake"
+  ]
+ },
+ "newsmagazine.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "newsmax.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias"
+  ]
+ },
+ "newsmutiny.com": {
+  "notes": "",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "newsninja2012.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "newstarget.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "newsthump.com": {
+  "notes": "site contains satire disclaimer",
+  "types": [
+   "satire"
+  ]
+ },
+ "newstoad.net": {
+  "notes": "Tagline: The news they don't want you to hear. Because it isn't true.",
+  "types": [
+   "satire"
+  ]
+ },
+ "newswatch28.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "newswatch33.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "newswire-24.com": {
+  "notes": "",
+  "types": [
+   "rumor",
+   "unreliable"
+  ]
+ },
+ "newswithviews.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy"
+  ]
+ },
+ "newyorker.com/humor": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "nodisinfo.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "unreliable"
+  ]
+ },
+ "nomorefakenews.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "northcrane.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "notallowedto.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "fake"
+  ]
+ },
+ "now8news.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "nowtheendbegins.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "npiamerica.org": {
+  "notes": "white supremacist think tank",
+  "types": [
+   "hate",
+   "bias"
+  ]
+ },
+ "nutritionalanarchy.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "nutritionfacts.org": {
+  "notes": "I read through several articles and the sources cited, and appears ok (maybe sometimes a little sensational... so if anyone has specific knowledge of this site and/or good examples of problems, feel free to link them here)",
+  "types": [
+   "reliable"
+  ]
+ },
+ "nymeta.co": {
+  "notes": "Entertainment website",
+  "types": [
+   "clickbait",
+   "satire"
+  ]
+ },
+ "oann.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "reliable"
+  ]
+ },
+ "oathkeepers.org": {
+  "notes": "https://www.splcenter.org/fighting-hate/extremist-files/group/oath-keepers",
+  "types": [
+   "bias"
+  ]
+ },
+ "objectiveministries.org": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "observer.com": {
+  "notes": "vacillates between some pieces that are \"bias\" and others that are \"reliable\"",
+  "types": [
+   "political"
+  ]
+ },
+ "occupy.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "occupydemocrats.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias",
+   "unreliable"
+  ]
+ },
+ "occupyliberals.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "off-guardian.org": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "offgridsurvival.com": {
+  "notes": "http://offgridsurvival.com/shadowgovernmentwars/",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "oftwominds.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "oilgeopolitics.net": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "onepoliticalplaza.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "onlineconservativepress.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "openmagazines.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "openmindmagazine.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "orientalreview.org": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "other98.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias",
+   "unreliable"
+  ]
+ },
+ "pakalertpress.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "palmerreport.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "pamelageller.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "fake",
+   "bias"
+  ]
+ },
+ "patdollar.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "patriotchronicle.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "patriotnewsdaily.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "patriotpost.us": {
+  "notes": "https://mediabiasfactcheck.com/the-patriot-post/ ; https://patriotpost.us/posts/48002 ; https://patriotpost.us/alexander/48000",
+  "types": [
+   "bias"
+  ]
+ },
+ "patriotrising.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "patriotupdate.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "paulcraigroberts.org": {
+  "notes": "ex: http://www.paulcraigroberts.org/2016/12/10/has-liberty-departed-from-america-paul-craig-roberts/",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "pjmedia.com": {
+  "notes": "https://mediabiasfactcheck.com/pj-media/ ;  https://pjmedia.com/about-us (ground zero mosque, 'doctored climate change data')",
+  "types": [
+   "political",
+   "bias"
+  ]
+ },
+ "platosguns.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "politicalblindspot.com": {
+  "notes": "ex: vaccines are a way for the CIA to spy on us",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "politicalcult.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait",
+   "conspiracy"
+  ]
+ },
+ "politicalears.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "clickbait"
+  ]
+ },
+ "politicalo.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "politicalsitenews.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "politicalupdator.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "clickbait",
+   "bias"
+  ]
+ },
+ "politicono.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "politicops.com": {
+  "notes": "redirects to Newslo",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "politicot.com": {
+  "notes": "redirects to Newslo",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "politicsintheusa.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias"
+  ]
+ },
+ "politicsusanews.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "politicususa.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "unreliable"
+  ]
+ },
+ "pollhype.com": {
+  "notes": "",
+  "types": [
+   "rumor",
+   "clickbait",
+   "bias"
+  ]
+ },
+ "powerpoliticians.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "pravda.ru": {
+  "notes": "",
+  "types": [
+   "bias",
+   "rumor",
+   "conspiracy"
+  ]
+ },
+ "pravdareport.com": {
+  "notes": "redirects to pravda.ru",
+  "types": [
+   "bias",
+   "rumor",
+   "conspiracy"
+  ]
+ },
+ "prepperwebsite.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "fake"
+  ]
+ },
+ "president45donaldtrump.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "presidentialvoting2016.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "bias",
+   "unreliable"
+  ]
+ },
+ "presstv.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "presstv.ir": {
+  "notes": "redirects to presstv.com",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "prisonplanet.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "prisonplanet.tv": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "prntly.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "proamericanews.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "progressivestoday.com": {
+  "notes": "https://mediabiasfactcheck.com/progressives-today/",
+  "types": [
+   "bias"
+  ]
+ },
+ "projectveritas.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable",
+   "political"
+  ]
+ },
+ "proudcons.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "proudemocrat.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "qpolitical.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait",
+   "junksci"
+  ]
+ },
+ "rawforbeauty.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "rawstory.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "clickbait"
+  ]
+ },
+ "react365.com": {
+  "notes": "fake news generator for pranking friends",
+  "types": [
+   "fake"
+  ]
+ },
+ "readconservatives.news": {
+  "notes": "",
+  "types": [
+   "bias",
+   "fake",
+   "clickbait"
+  ]
+ },
+ "reagancoalition.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "fake",
+   "clickbait"
+  ]
+ },
+ "realfarmacy.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "conspiracy"
+  ]
+ },
+ "realnewsrightnow.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "realplanetnews.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "realtimepolitics.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "redcountry.us": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "redflagnews.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "unreliable"
+  ]
+ },
+ "redrocktribune.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "redstate.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "clickbait"
+  ]
+ },
+ "redstatewatcher.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "reductress.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "regated.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "religionlo.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "satire"
+  ]
+ },
+ "religionmind.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "remedydaily.com": {
+  "notes": "",
+  "types": [
+   "clickbait"
+  ]
+ },
+ "rense.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "resistancereport.com": {
+  "notes": "http://www.politifact.com/personalities/resistance-report/",
+  "types": [
+   "political",
+   "unreliable"
+  ]
+ },
+ "responsibletechnology.org": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "returnofkings.com": {
+  "notes": "",
+  "types": [
+   "hate"
+  ]
+ },
+ "revolutions2040.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "clickbait"
+  ]
+ },
+ "rhotv.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "rickwells.us": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy"
+  ]
+ },
+ "rightalert.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "rightwingnews.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "rilenews.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "rinf.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "rockcitytimes.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "rogue-nation3.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "ronpaulinstitute.org": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "rumorjournal.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "rumormillnews.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci",
+   "rumor"
+  ]
+ },
+ "ruptly.tv": {
+  "notes": "owned by RT",
+  "types": [
+   "political"
+  ]
+ },
+ "russia-insider.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "satiratribune.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "satirewire.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "scrappleface.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "secretsofthefed.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "sensationalisttimes.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "sentinelblog.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "shareblue.com": {
+  "notes": "My analysis is similar to this site: https://mediabiasfactcheck.com/shareblue/",
+  "types": [
+   "unreliable",
+   "political",
+   "bias"
+  ]
+ },
+ "sheepkillers.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "shoebat.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "silver-coin-investor. com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias",
+   "unreliable"
+  ]
+ },
+ "silverbearcafe.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "silverdoctors.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "silverstealers.net": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "sjlendman.blogspot.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "skeptiko.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "smag31.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake",
+   "unreliable"
+  ]
+ },
+ "socialeverythings.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "sonsoflibertyradio.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias",
+   "unreliable"
+  ]
+ },
+ "sovereignman.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "speld.nl": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "sportspickle.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "sputniknews.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "state",
+   "fake"
+  ]
+ },
+ "stneotscitizen.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "stormcloudsgathering.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "stuppid.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "subjectpolitics.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "success-street.com": {
+  "notes": "http://success-street.com/2017/01/18/wow-obama-orders-life-sized-bronze-statute-permanently-installed-white-house/",
+  "types": [
+   "fake",
+   "clickbait"
+  ]
+ },
+ "supremepatriot.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "surrealscoop.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "tdtalliance.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "teaparty.org": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake",
+   "unreliable"
+  ]
+ },
+ "thatviralfeed.net": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake",
+   "unreliable"
+  ]
+ },
+ "the-insider.co": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "theamericanindependent.wordpress.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "theantimedia.org": {
+  "notes": "ex: http://theantimedia.org/cdc-admits-ebola-airborne/",
+  "types": [
+   "unreliable",
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "thebeaverton.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thebigriddle.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "theblaze.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "clickbait"
+  ]
+ },
+ "thebostontribune.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "thecommonsenseshow.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy"
+  ]
+ },
+ "thecontroversialfiles.net": {
+  "notes": "",
+  "types": [
+   "fake",
+   "clickbait"
+  ]
+ },
+ "thedailybeast.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "thedailymash.co.uk": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thedailysheeple.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "thedailywtf.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "theduran.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "theeconomiccollapseblog.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "theeventchronicle.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci",
+   "clickbait"
+  ]
+ },
+ "theextinctionprotocol.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "thefederalistpapers.org": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "thefifthcolumnnews.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "theforbiddenknowledge.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "thefreepatriot.org": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias",
+   "clickbait"
+  ]
+ },
+ "thefreethoughtproject.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "conspiracy",
+   "clickbait"
+  ]
+ },
+ "thegatewaypundit.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "unreliable"
+  ]
+ },
+ "thegoldandoilguy.com/articles": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "thehardtimes.net": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "theineptowl.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "theinformedamerican.net": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "theintercept.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "theinternetpost.net": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "thelastgreatstand.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "thelastlineofdefense.org": {
+  "notes": "http://thelastlineofdefense.org/about-us/",
+  "types": [
+   "satire"
+  ]
+ },
+ "thelibertybeacon.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci",
+   "bias"
+  ]
+ },
+ "thelibertymill.com": {
+  "notes": "",
+  "types": [
+   "unreliable",
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "themadisonmisnomer.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "themideastbeast.com": {
+  "notes": "http://www.themideastbeast.com/about/",
+  "types": [
+   "satire"
+  ]
+ },
+ "themindunleashed.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci",
+   "clickbait"
+  ]
+ },
+ "themindunleashed.org": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci",
+   "clickbait"
+  ]
+ },
+ "themoralofthestory.us": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "themuslimissue.wordpress.com": {
+  "notes": "",
+  "types": [
+   "hate",
+   "conspiracy"
+  ]
+ },
+ "thenet24h.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "thenewamerican.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "thenewsdoctors.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "thenewsnerd.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thenewyorkevening.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "theonion.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thephaser.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "thepoke.co.uk": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thepoliticalinsider.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "bias",
+   "unreliable"
+  ]
+ },
+ "theracketreport.com": {
+  "notes": "I can't find disclaimers, but I think it's satirical",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "therealstrategy.com": {
+  "notes": "black lives matter content spews a lot of racist info",
+  "types": [
+   "bias",
+   "conspiracy",
+   "hate"
+  ]
+ },
+ "thereporterz.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "therightists.com": {
+  "notes": "publishes both biased and fake content",
+  "types": [
+   "satire"
+  ]
+ },
+ "therightscoop.com": {
+  "notes": "no authors, no history, no about us, unverifiable data, etc.",
+  "types": [
+   "fake",
+   "clickbait"
+  ]
+ },
+ "therightstuff.biz": {
+  "notes": "",
+  "types": [
+   "hate"
+  ]
+ },
+ "theseattletribune.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "satire"
+  ]
+ },
+ "theshovel.com.au": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "theskunk.org": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thespoof.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thestatelyharold.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thetimesoftheworld.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thetrumpmedia.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "thetruthaboutcancer.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "thetruthdivision.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "thetruthseeker.co.uk": {
+  "notes": "ex: NY orchestrated the asian tsunami in 2008!",
+  "types": [
+   "fake",
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "thetruthwins.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "conspiracy",
+   "clickbait"
+  ]
+ },
+ "theunrealtimes.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "theusa-news.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "theuspatriot.com": {
+  "notes": "",
+  "types": [
+   "satire",
+   "fake"
+  ]
+ },
+ "thevalleyreport.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "thewashingtonpress.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "thewatchtowers.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "clickbait"
+  ]
+ },
+ "thinkprogress.org": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "threepercenternation.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "times.com.mx": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "tmzworldnews.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "tomwoods.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "unreliable"
+  ]
+ },
+ "topekasnews.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "topinfopost.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "unreliable",
+   "conspiracy"
+  ]
+ },
+ "trueactivist.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "unreliable"
+  ]
+ },
+ "trueamericans.me": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "truepundit.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "truetrumpers.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "trumpvision365.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "truthandaction.org": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "clickbait"
+  ]
+ },
+ "truthbroadcastnetwork.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "clickbait"
+  ]
+ },
+ "truthfeed.com": {
+  "notes": "",
+  "types": [
+   "hate",
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "truthfrequencyradio.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "truthkings.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "truthrevolt.org": {
+  "notes": "",
+  "types": [
+   "bias",
+   "hate"
+  ]
+ },
+ "twitchy.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "rumor"
+  ]
+ },
+ "ufoholic.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "unclesamsmisguidedchildren.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "unconfirmedsources.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "undergroundnewsreport.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "undergroundworldnews.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "unitedmediapublishing.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "universepolitics.com": {
+  "notes": "http://www.politifact.com/punditfact/statements/2017/jan/03/universe-politics/fake-news-michigan-gop-elector-didnt-choose-suicid/",
+  "types": [
+   "fake"
+  ]
+ },
+ "unz.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "us.blastingnews.com": {
+  "notes": "",
+  "types": [
+   "satire",
+   "unreliable"
+  ]
+ },
+ "usa-radio.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usa-television.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usa2016elections.com": {
+  "notes": "no longer being updated",
+  "types": [
+   "fake"
+  ]
+ },
+ "usadailyinfo.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usadailypolitics.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "usadailytime.com": {
+  "notes": "no satire disclaimer, http://usadailytime.com/breaking-mexico-closes-borders-usa-citizens/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usadosenews.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usafirstinformation.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usahitman.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy"
+  ]
+ },
+ "usainfobox.com": {
+  "notes": "can't find satire disclaimer, patently false",
+  "types": [
+   "fake"
+  ]
+ },
+ "usamagazinestudio.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "usanewsflash.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias",
+   "clickbait"
+  ]
+ },
+ "usanewsinsider.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias",
+   "clickbait"
+  ]
+ },
+ "usanewspolitics.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "usanewstoday.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usaonlinepolitics.com": {
+  "notes": "no longer being updated",
+  "types": [
+   "fake",
+   "clickbait"
+  ]
+ },
+ "usaphase.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "usapolitics24hrs.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usapoliticsnow.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "usapoliticstoday.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "usapoliticszone.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usasnich.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usasupreme.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "usatoday.com.co": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "usatodaynews.me": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usatwentyfour.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "usawatchdog.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "uschronicle.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "hate"
+  ]
+ },
+ "usconservativetoday.com": {
+  "notes": "",
+  "types": [
+   "fake"
+  ]
+ },
+ "usdefensewatch.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "usfanzone.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "ushealthyadvisor.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "ushealthylife.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usherald.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy",
+   "fake"
+  ]
+ },
+ "usinfonews.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "uslifetoday.com": {
+  "notes": "doesn't appear to be currently updated",
+  "types": [
+   "clickbait"
+  ]
+ },
+ "uspoliticslive.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "uspoln.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "uspostman.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "usuncut.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "bias",
+   "unreliable"
+  ]
+ },
+ "usviewer.com": {
+  "notes": "basically copy/pastes parts of actual reuters stories, no authors listed or publication info",
+  "types": [
+   "unreliable",
+   "fake"
+  ]
+ },
+ "vdare.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "hate"
+  ]
+ },
+ "veteransnewsnow.com": {
+  "notes": "I read sample articles and didn't find inaccuracy, but the language is strong/loaded",
+  "types": [
+   "unreliable",
+   "political"
+  ]
+ },
+ "veteranstoday.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "vigilantcitizen.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy"
+  ]
+ },
+ "viralactions.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "viralliberty.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias",
+   "clickbait"
+  ]
+ },
+ "viraltube.nl": {
+  "notes": "",
+  "types": [
+   "clickbait"
+  ]
+ },
+ "voxtribune.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "wakeupthesheep.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "wakingtimes.com": {
+  "notes": "",
+  "types": [
+   "junksci"
+  ]
+ },
+ "wakingupwisconsin.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "wallstreetonparade.com": {
+  "notes": "mostly linking/commenting on both news and other sources.",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "washingtonexaminer.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "unreliable"
+  ]
+ },
+ "washingtonfed.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "washingtonpost.com.co": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "washingtonsblog.com": {
+  "notes": "Site notes it sometimes contains parody",
+  "types": [
+   "bias",
+   "conspiracy",
+   "satire"
+  ]
+ },
+ "waterfordwhispersnews.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "wearechange.org": {
+  "notes": "",
+  "types": [
+   "bias",
+   "conspiracy"
+  ]
+ },
+ "weaselzippers.us": {
+  "notes": "copies/pastes quotes/bits from news orgs and other questionable sites",
+  "types": [
+   "unreliable",
+   "bias"
+  ]
+ },
+ "webdaily.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "weeklystandard.com": {
+  "notes": "",
+  "types": [
+   "political",
+   "bias"
+  ]
+ },
+ "weeklyworldnews.com": {
+  "notes": "pretty well known tabloid/fake news source",
+  "types": [
+   "fake",
+   "rumor",
+   "clickbait"
+  ]
+ },
+ "weshapelife.org": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "westernjournalism.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait"
+  ]
+ },
+ "whatdoesitmean.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "whatreallyhappened.com": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "rumor"
+  ]
+ },
+ "whitepower.com": {
+  "notes": "",
+  "types": [
+   "hate",
+   "conspiracy",
+   "bias"
+  ]
+ },
+ "whowhatwhy.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "whowhatwhy.org": {
+  "notes": "9/11 = FBI coverup",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "whydontyoutrythis.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "rumor"
+  ]
+ },
+ "wikileaks.com": {
+  "notes": "https://www.nytimes.com/2017/03/09/opinion/the-truth-about-the-wikileaks-cia-cache.html?_r=0",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "wikileaks.org": {
+  "notes": "Increasingly wikileaks is being accused of spreading misinformation",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "wikispooks.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "williambanzai7.blogspot.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "willyloman.wordpress.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "winkprogress.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "winningdemocrats.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "witscience.org": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "wnd.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "clickbait",
+   "unreliable"
+  ]
+ },
+ "wolfstreet.com": {
+  "notes": "",
+  "types": [
+   "unreliable"
+  ]
+ },
+ "wonkie.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "worldnewsdailyreport.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "worldnewspolitics.com": {
+  "notes": "",
+  "types": [
+   "bias"
+  ]
+ },
+ "worldpoliticsnow.com": {
+  "notes": "http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/",
+  "types": [
+   "fake"
+  ]
+ },
+ "worldpoliticsus.com": {
+  "notes": "website down",
+  "types": [
+   "fake"
+  ]
+ },
+ "worldrumor.com": {
+  "notes": "no longer being updated?",
+  "types": [
+   "fake"
+  ]
+ },
+ "worldstoriestoday.com": {
+  "notes": "no longer being updated?",
+  "types": [
+   "fake"
+  ]
+ },
+ "worldtruth.tv": {
+  "notes": "",
+  "types": [
+   "conspiracy",
+   "junksci"
+  ]
+ },
+ "worldwidehealthy.com": {
+  "notes": "",
+  "types": [
+   "junksci",
+   "clickbait"
+  ]
+ },
+ "wtoe5news.com": {
+  "notes": "https://web.archive.org/web/20161115024211/http://wtoe5news.com/us-election/pope-francis-shocks-world-endorses-donald-trump-for-president-releases-statement/",
+  "types": [
+   "fake",
+   "satire"
+  ]
+ },
+ "wundergroundmusic.com": {
+  "notes": "",
+  "types": [
+   "satire"
+  ]
+ },
+ "www.rt.com": {
+  "notes": "",
+  "types": [
+   "state"
+  ]
+ },
+ "x22report.com": {
+  "notes": "website down",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "yellowhammernews.com": {
+  "notes": "",
+  "types": [
+   "political"
+  ]
+ },
+ "yesimright.com": {
+  "notes": "",
+  "types": [
+   "fake",
+   "bias"
+  ]
+ },
+ "youngcons.com": {
+  "notes": "",
+  "types": [
+   "bias",
+   "unreliable"
+  ]
+ },
+ "yourfunpage.com": {
+  "notes": "mostly links to rando YT videos",
+  "types": [
+   "fake"
+  ]
+ },
+ "yournationnews.com": {
+  "notes": "",
+  "types": [
+   "clickbait"
+  ]
+ },
+ "yournewswire.com": {
+  "notes": "",
+  "types": [
+   "clickbait",
+   "junksci"
+  ]
+ },
+ "zerohedge.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ },
+ "zootfeed.com": {
+  "notes": "",
+  "types": [
+   "conspiracy"
+  ]
+ }
+}

@@ -1,0 +1,15 @@
+{
+  "blog": "Personal or group blog rather than a news outlet.",
+  "bias": "Pushes one viewpoint hard, often presenting opinion as fact.",
+  "clickbait": "Content may be accurate, but headlines and images exaggerate or mislead.",
+  "conspiracy": "Promotes conspiracy theories with little or no evidence.",
+  "fake": "Publishes invented stories or heavily distorted versions of real events.",
+  "hate": "Promotes racism, misogyny, homophobia or other discrimination.",
+  "junksci": "Promotes pseudoscience and scientifically unsupported claims.",
+  "political": "Generally verifiable, but written to support a political position.",
+  "reliable": "Follows standard journalistic practice. Still check claims against other sources.",
+  "rumor": "Spreads gossip and unverified claims.",
+  "satire": "Writes comedy and parody that can be mistaken for real reporting.",
+  "state": "Operates under the control of a government with limited press freedom.",
+  "unreliable": "Sometimes accurate, but claims need independent verification."
+}
